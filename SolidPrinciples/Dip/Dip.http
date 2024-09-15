@@ -1,0 +1,6 @@
+@Dip_HostAddress = http://localhost:5228
+
+GET {{Dip_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

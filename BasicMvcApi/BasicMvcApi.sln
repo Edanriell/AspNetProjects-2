@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BasicMvcApi", "BasicMvcApi\BasicMvcApi.csproj", "{355C4D27-5B9E-4243-AD2D-FFA1150C9352}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shared", "Shared\Shared.csproj", "{B8EA9551-1D4C-408A-B9A6-8EF954548180}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{355C4D27-5B9E-4243-AD2D-FFA1150C9352}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{355C4D27-5B9E-4243-AD2D-FFA1150C9352}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{355C4D27-5B9E-4243-AD2D-FFA1150C9352}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{355C4D27-5B9E-4243-AD2D-FFA1150C9352}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B8EA9551-1D4C-408A-B9A6-8EF954548180}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8EA9551-1D4C-408A-B9A6-8EF954548180}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8EA9551-1D4C-408A-B9A6-8EF954548180}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8EA9551-1D4C-408A-B9A6-8EF954548180}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,6 @@
+@CustomContainer_HostAddress = http://localhost:5129
+
+GET {{CustomContainer_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

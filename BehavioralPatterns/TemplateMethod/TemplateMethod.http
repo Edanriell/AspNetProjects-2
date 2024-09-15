@@ -1,0 +1,6 @@
+@TemplateMethod_HostAddress = http://localhost:5111
+
+GET {{TemplateMethod_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

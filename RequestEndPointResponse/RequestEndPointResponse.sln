@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleEndpoint", "SimpleEndpoint\SimpleEndpoint.csproj", "{B965D401-682B-47E7-83AD-2481B1188148}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "REPRWeb", "REPRWeb\REPRWeb.csproj", "{67858D14-EB5E-4A2A-84D3-F8487CB7C551}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B965D401-682B-47E7-83AD-2481B1188148}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B965D401-682B-47E7-83AD-2481B1188148}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B965D401-682B-47E7-83AD-2481B1188148}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B965D401-682B-47E7-83AD-2481B1188148}.Release|Any CPU.Build.0 = Release|Any CPU
+		{67858D14-EB5E-4A2A-84D3-F8487CB7C551}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67858D14-EB5E-4A2A-84D3-F8487CB7C551}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67858D14-EB5E-4A2A-84D3-F8487CB7C551}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67858D14-EB5E-4A2A-84D3-F8487CB7C551}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

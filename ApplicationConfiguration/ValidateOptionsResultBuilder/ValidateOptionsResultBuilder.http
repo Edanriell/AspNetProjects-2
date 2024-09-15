@@ -1,0 +1,6 @@
+@ValidateOptionsResultBuilder_HostAddress = http://localhost:5034
+
+GET {{ValidateOptionsResultBuilder_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

@@ -1,0 +1,6 @@
+@ImprovedChainOfResponsibility_HostAddress = http://localhost:5051
+
+GET {{ImprovedChainOfResponsibility_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

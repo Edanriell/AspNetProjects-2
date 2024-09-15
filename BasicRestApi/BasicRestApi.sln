@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BasicRestApi", "BasicRestApi\BasicRestApi.csproj", "{80623E91-DCF2-4737-8F64-4F72CD7C3856}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{80623E91-DCF2-4737-8F64-4F72CD7C3856}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80623E91-DCF2-4737-8F64-4F72CD7C3856}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80623E91-DCF2-4737-8F64-4F72CD7C3856}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80623E91-DCF2-4737-8F64-4F72CD7C3856}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

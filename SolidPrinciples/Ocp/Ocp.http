@@ -1,0 +1,6 @@
+@Ocp_HostAddress = http://localhost:5076
+
+GET {{Ocp_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

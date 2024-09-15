@@ -1,0 +1,6 @@
+@ConfigurationGenerators_HostAddress = http://localhost:5050
+
+GET {{ConfigurationGenerators_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

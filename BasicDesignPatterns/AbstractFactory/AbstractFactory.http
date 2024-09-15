@@ -1,0 +1,6 @@
+@AbstractFactory_HostAddress = http://localhost:5166
+
+GET {{AbstractFactory_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

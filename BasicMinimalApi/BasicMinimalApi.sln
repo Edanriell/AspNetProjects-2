@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BasicMinimalApi", "BasicMinimalApi\BasicMinimalApi.csproj", "{3639E3AD-D87D-42E6-905F-2B7D7FCADEEB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shared", "Shared\Shared.csproj", "{CDACEC96-6D27-4A3A-9851-AE848FF78060}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3639E3AD-D87D-42E6-905F-2B7D7FCADEEB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3639E3AD-D87D-42E6-905F-2B7D7FCADEEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3639E3AD-D87D-42E6-905F-2B7D7FCADEEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3639E3AD-D87D-42E6-905F-2B7D7FCADEEB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CDACEC96-6D27-4A3A-9851-AE848FF78060}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CDACEC96-6D27-4A3A-9851-AE848FF78060}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CDACEC96-6D27-4A3A-9851-AE848FF78060}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CDACEC96-6D27-4A3A-9851-AE848FF78060}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

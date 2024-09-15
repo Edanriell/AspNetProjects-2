@@ -1,0 +1,6 @@
+@CompositionRoot_HostAddress = http://localhost:5230
+
+GET {{CompositionRoot_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
